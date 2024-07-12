@@ -116,6 +116,3 @@ This means that the pattern "geek" is found at indices 0 and 8 in the text strin
 ## Conclusion
 
 The KMP algorithm is an efficient string matching algorithm that preprocesses the pattern string to avoid redundant comparisons. This implementation demonstrates the construction of the LPS array and the use of the KMP algorithm to search for occurrences of a pattern within a text string.
-```
-
-Feel free to add more sections or details as per your requirements!
