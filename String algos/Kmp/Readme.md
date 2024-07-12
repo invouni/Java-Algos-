@@ -1,4 +1,3 @@
-Sure, here is a `README.md` explaining the KMP algorithm implementation part by part:
 
 ```markdown
 # KMP Algorithm Implementation
