@@ -1,4 +1,4 @@
-public class BoyerMoore {
+public class KarpRabin {
     static final int PRIME = 101;
 
     public static long createHash(String s, int n) {
